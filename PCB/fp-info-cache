@@ -1,4 +1,4 @@
-22467228817879671
+22477676449331206
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -343,6 +343,13 @@ battery CR-3032 coin cell vertical
 2
 2
 Button_Switch_Keyboard
+PlateFP_
+
+
+0
+0
+0
+Button_Switch_Keyboard
 SW_Cherry_Choc2_MX_1.00u_PCB
 Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
 Cherry MX keyswitch 1.00u PCB
@@ -498,6 +505,27 @@ Cherry MX keyswitch 1.00u PCB
 2
 Button_Switch_Keyboard
 SW_Cherry_Choc5_MX_1.00u_PCB_circle
+Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 1.00u PCB
+0
+4
+2
+Button_Switch_Keyboard
+SW_Cherry_Choc5_MX_1.00u_PCB_circle_3d
+Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 1.00u PCB
+0
+4
+2
+Button_Switch_Keyboard
+SW_Cherry_Choc5_MX_1.00u_PCB_circle_3d_1.25u
+Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 1.00u PCB
+0
+4
+2
+Button_Switch_Keyboard
+SW_Cherry_Choc5_MX_1.00u_PCB_circle_3d_1u
 Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
 Cherry MX keyswitch 1.00u PCB
 0
@@ -811,6 +839,13 @@ Matias ALPS keyswitch ISO enter
 0
 2
 2
+Button_Switch_Keyboard
+Untitled
+
+
+0
+0
+0
 Button_Switch_SMD
 Nidec_Copal_CAS-120A
 Slide Switch, SMD, Nidec CAS series, https://www.nidec-components.com/e/catalog/switch/cas.pdf
@@ -54517,6 +54552,13 @@ Diode_remake2
 2
 Diode_THT
 Diode_remake3
+
+
+0
+2
+2
+Diode_THT
+Diode_remake3_3d
 
 
 0
