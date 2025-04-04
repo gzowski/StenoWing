@@ -1,6 +1,6 @@
 # StenoWing28 - Rev 2
 28 key staggered Stenography keyboard without number row
-![stenowing28](https://github.com/gzowski/StenoWing/blob/main/images/stenowing_light.jpg)
+![stenowing28](https://github.com/gzowski/StenoWing/blob/main/Images/stenowing_light.jpg)
 
 ## Features
 * 28 Key layout
