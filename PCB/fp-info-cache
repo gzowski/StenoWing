@@ -1,4 +1,4 @@
-22477676449331206
+22479420119047775
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -86190,6 +86190,13 @@ Logo FCC certification
 0
 0
 0
+Symbol
+Frood_PinHeader_2x13+5_P2.54mm_Labels_Top_LESS_PINS
+Through hole straight pin header, 1x12, 2.54mm pitch, single row
+Through hole pin header THT 1x12 2.54mm single row
+0
+24
+24
 Symbol
 KiCad-Logo2_5mm_Copper
 KiCad Logo
