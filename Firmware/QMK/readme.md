@@ -3,8 +3,8 @@
 28 key alternative layout
 
 * Keyboard Maintainer: [James Gzowski](https://github.com/gzowski)
-* Hardware Supported: Elite-Pi, Frood, 0xB2 Splinky or similar
-* Build Guide: [Somei70](https://github.com/gzowski/stenowing)
+* Hardware Supported: RP2040 Pro Micro
+* Build Guide: [StenoWing28](https://github.com/gzowski/stenowing)
 
 Make example for this keyboard (after setting up your build environment):
 	
