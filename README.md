@@ -1,7 +1,9 @@
 # StenoWing28 - Rev 2
 28 key staggered Stenography keyboard without number row
 ![stenowing28](https://github.com/gzowski/StenoWing/blob/main/Images/stenowing_light.jpg)
-This is now my third keyboard project which has been made possible by the people over at PCBWay who have sponsored this project and without PCBWay non of these projects would have been possible.
+This is now my third keyboard project which has been made possible by the people over at [PCBWay](https://www.pcbway.com) who have sponsored this project and without PCBWay non of these projects would have been possible.
+
+You can find a full writeup on this keyboard project on my website at [Phoenix Boards](https://gzowski.co.uk/?p=230)
 
 The design idea behind this was to follow on from the design of the Ashwing66 while reducing it's footprint further to make something usable for stenography, the intial plan was to retain the wing like design with the 30 degree bend although this was later changed to a more linear layout with a slight vertical stagger.
 The bottom row has switches rotated to allow for the use of 1.25U and 1.5U keycaps for those who prefer longer keys.
