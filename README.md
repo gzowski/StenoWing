@@ -1,6 +1,9 @@
 # StenoWing28 - Rev 2
 28 key staggered Stenography keyboard without number row
 ![stenowing28](https://github.com/gzowski/StenoWing/blob/main/Images/stenowing_light.jpg)
+![stenowing28_pcb](https://github.com/gzowski/StenoWing/blob/main/Images/pcb_render.jpg)
+Additional images [here](https://github.com/gzowski/StenoWing/blob/main/Images)
+
 This is now my third keyboard project which has been made possible by the people over at [PCBWay](https://www.pcbway.com) who have sponsored this project and without PCBWay non of these projects would have been possible.
 
 You can find a full writeup on this keyboard project on my website at [Phoenix Boards](https://gzowski.co.uk/?p=230)
